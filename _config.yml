@@ -205,10 +205,8 @@ sidebar:
 # BADGES
 # Feature that allows to display badges into the footer https://shields.io image html and url
 shields:
-    -   image_html: <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/olivier3lanc/Jekyll-LibDoc?logo=github&style=flat-square">
-        link_url: https://github.com/olivier3lanc/Jekyll-LibDoc
-    -   image_html: <img alt="no trackers, no cookies and no analytics" title="This website has no trackers, no cookies and no analytics. Only feedback is important :)" src="https://img.shields.io/badge/no%20trackers|cookies|analytics-Just%20feedback-green?style=flat-square">
-        link_url: 'mailto:olivier3lanc@gmail.com'
+    -   image_html: <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/mkazinauskas/tools?logo=github&style=flat-square">
+        link_url: https://github.com/mkazinauskas/tools
 
 # ASSETS
 # Settings for the assets layout
@@ -531,4 +529,4 @@ prism:
 
 # LIBDOC BACKLINK
 # Link powered by LibDoc - Uncomment to remove
-# disable_powered_by_link: true
+disable_powered_by_link: true
