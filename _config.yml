@@ -142,7 +142,7 @@ metadata:
     # IMAGE
     # Open Graph image file for social networks. Can be either relative URL from site root, absolute URL starting with 'http'. Default is LibDoc's splash screen.
     # image: /img/custom_image.webp
-    image: /assets/libdoc/img/libdoc.png
+    image: /assets/tools_getbestfree/img/main-opengraph.png
 
 # SIDEBAR
 # Main navigation containing site/project's logo, pages links and search form.
@@ -156,7 +156,7 @@ sidebar:
     logo:
         # LOGO URL
         # Image URL: Can be local e.g. '/img/logo.png' or remote 'https://remotesite.com/img/logo.png'
-        url: /assets/libdoc/img/favicon/android-chrome-512x512.png
+        url: /assets/tools_getbestfree/img/favicon/android-chrome-512x512.png
 
         # LOGO MAX HEIGHT
         # Logo image max height, applies only if url is set
