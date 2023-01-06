@@ -3,7 +3,6 @@ title: Free Random List Generator
 description: A random list generator generates a list of items randomly from a given set of items
 layout: libdoc/page
 
-#LibDoc specific below
 category: Randomization tools
 order: 90
 ---
