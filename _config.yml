@@ -9,7 +9,7 @@ title: tools.getbestfree.com # title of the documentation
 description: >- # Description of the docs. (>- means to ignore newlines until next param)
   This page offers a variety of free online tools to help users increase productivity and efficiency in both personal and professional contexts.
 # IMPORTANT: on Github Pages deploys, url and baseurl must be commented or set to proper settings, otherwise links and resources URL are wrong
-# url: http://localhost # the base hostname & protocol for your site, e.g. http://example.com
+url: https://tools.getbestfree.com
 # baseurl: /Jekyll-LibDoc/_site # the subpath of your site, e.g. /blog
 #permalink: /:path/:basename/:output_ext
 #destination: ../your/new/path # Build relative path destination. The destination directory e.g. /blog
