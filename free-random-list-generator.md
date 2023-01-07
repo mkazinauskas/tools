@@ -76,9 +76,14 @@ order: 90
     }
   }
 </script>
-{% endraw %}
 
-<a href="https://s.click.aliexpress.com/e/_DeAVKgn?bz=300*250" target="_parent"><img width="725" height="90" src="https://ae01.alicdn.com/kf/S3619e57974f148d087c950fe497cdf55q/300x250.jpg" /></a>
+<p style="text-align:center">
+  <a href="https://s.click.aliexpress.com/e/_DeAVKgn?bz=300*250" target="_blank">
+    <img width="300" height="250" src="https://ae01.alicdn.com/kf/S3619e57974f148d087c950fe497cdf55q/300x250.jpg" />
+  </a>
+</p>
+
+{% endraw %}
 
 ## How Free Random List Generator works?
 
