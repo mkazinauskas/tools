@@ -78,6 +78,8 @@ order: 90
 </script>
 {% endraw %}
 
+<a href="https://s.click.aliexpress.com/e/_DeAVKgn?bz=300*250" target="_parent"><img width="725" height="90" src="https://ae01.alicdn.com/kf/S3619e57974f148d087c950fe497cdf55q/300x250.jpg" /></a>
+
 ## How Free Random List Generator works?
 
 A random list generator is a tool or program that generates a list of elements randomly from a given set of elements. This can be useful for a variety of purposes, such as generating random samples for statistical analysis, creating random groups for experimental purposes, or simply for generating random lists of elements for fun.
