@@ -31,16 +31,18 @@ order: 90
     border-radius: 4px;
     cursor: pointer;
   }
+
   #generate-button:hover {
     background-color: #45a049;
   }
+
   #qrCode {
     margin-top: 20px;
     margin-bottom: 50px;
   }
   </style>
 
-<form>
+<form onsubmit="createQRCode(); return false;">
   <label for="text-input">Enter text to encode in QR code:</label><br>
   <p style="text-align:center; margin:auto">
      <input type="text" id="text-input" name="text-input"><br>
@@ -104,7 +106,7 @@ The createQRCode() function does the following:
 
 ## QR Code Generator script
 
-The html code below shows how a free QR Code Generator works
+The html code below shows how a free QR Code Generator works. JS library is used from [https://github.com/davidshimjs/qrcodejs](https://github.com/davidshimjs/qrcodejs)
 
 ```html
 <style>
@@ -138,7 +140,7 @@ The html code below shows how a free QR Code Generator works
   }
   </style>
 
-<form>
+<form onsubmit="createQRCode(); return false;">
   <label for="text-input">Enter text to encode in QR code:</label><br>
   <p style="text-align:center; margin:auto">
      <input type="text" id="text-input" name="text-input"><br>
@@ -150,7 +152,7 @@ The html code below shows how a free QR Code Generator works
 <div id="qrCode">
 </div>
 
-<script src="/assets/tools_getbestfree/js/qr/qrcode.min.js"></script>
+<script src="https://raw.githubusercontent.com/mkazinauskas/tools/main/assets/tools_getbestfree/js/qr/qrcode.min.js"></script>
 <script>
 function createQRCode() {
   var text = document.getElementById("text-input").value;
